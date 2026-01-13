@@ -140,7 +140,7 @@ Scale: 4, 8, 12, 16, 24, 32, 64
 
 ## Generated Artifacts
 
-Run `/design generate` to create consumable files:
+Run `/ds-engineer generate` to create consumable files:
 
 **`.design/tokens.css`** — CSS custom properties
 ```css
